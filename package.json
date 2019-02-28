@@ -1,7 +1,7 @@
 {
   "name": "@gct256/sitetool-cli",
   "productName": "sitetool-cli",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "command line interface for @gct256/sitetool",
   "bin": "bin/sitetool-cli",
   "main": "lib/cli.js",
