@@ -24,7 +24,7 @@
     "eslint-plugin-standard": "^4.0.0"
   },
   "dependencies": {
-    "@gct256/sitetool": "^2.0.0",
+    "@gct256/sitetool": "^2.1.0",
     "args": "^5.0.0"
   }
 }
