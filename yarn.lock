@@ -703,10 +703,10 @@
     lodash "^4.17.11"
     to-fast-properties "^2.0.0"
 
-"@gct256/sitetool@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@gct256/sitetool/-/sitetool-3.0.0.tgz#245990ee6d47dac7d1b2b7c98313f18227513424"
-  integrity sha512-TUGiCtoBC0QX2aTYF3C6yIMhNSJpPqaLm1926YDgGk14+WxQnDaaaC8e4pmegf9k7ANXrKDX66n5Eki+5cK+Rw==
+"@gct256/sitetool@^3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@gct256/sitetool/-/sitetool-3.0.1.tgz#efc626359321272c1681f06ae90066c31d3cd13f"
+  integrity sha512-ScgpTIBJBMRUPH1DhdkiVFEmhi7MSX3nhWnDLyhqifGLtPAUYx1mtzz5/YMpeC9ExvZ45Whx5LB9SW5B53RYdQ==
   dependencies:
     "@babel/core" "^7.4.3"
     "@babel/preset-env" "^7.4.3"
